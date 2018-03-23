@@ -2,7 +2,11 @@ package com.hoffmann.pontointeligente.api.enuns;
 
 public enum TipoEnum {
 
-	ROLE_ADMIN,
-	ROLE_USER;
-	
+		
+	INICIO_TRABALHO,
+	TERMINO_TRABALHO,
+	INICIO_ALMOCO,
+	TERMINO_ALMOCO,
+	INICIO_PAUSA,
+	TERMINO_PAUSA;
 }
